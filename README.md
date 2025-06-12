@@ -2,7 +2,7 @@
 
 Este projeto é um **sistema simples de gerenciamento de biblioteca**, desenvolvido em **C# utilizando Programação Orientada a Objetos (POO)**.
 
-> 🇺🇸 *Todo o código foi escrito em inglês com o objetivo de praticar vocabulário técnico e ganhar fluência na linguagem.*
+> *Todo o código foi escrito em inglês com o objetivo de praticar vocabulário técnico e ganhar fluência na linguagem.*
 
 ## ⚙️ Tecnologias Utilizadas
 
